@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow the mod folder and its contents
+!TheWildsCreatureExpansion/
+!TheWildsCreatureExpansion/**
+
+# Allow this .gitignore file and optional README
+!.gitignore
+!README.md
