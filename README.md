@@ -46,8 +46,8 @@ git clone https://github.com/EvilGeniusGames/TheWildsCreatureExpansion.git TheWi
 
 - Website: [evilgeniusgames.ca](https://evilgeniusgames.ca)
 - GitHub: [The Wilds Project](https://github.com/EvilGeniusGames/TheWilds)
-- BlueSky: `@evilgeniustech.bsky.social`
+- BlueSky: [@evilgeniustech.bsky.social](https://bsky.app/profile/evilgeniustech.bsky.social)
 - Discord Discussion: [Join Here](https://discord.com/channels/555424930502541343/1394079554641072310)
 
 ---
-Created by EvilGeniusGames.ca — I make games and electronics I want to use.
+Created by EvilGeniusGames.ca — Engineering experiences I want to live in - through games and electronics.
