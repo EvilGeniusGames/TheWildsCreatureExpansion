@@ -20,7 +20,7 @@ A Satisfactory mod that introduces new creatures, behaviors, and spawner systems
 Progress tracked in the [main project repo](https://github.com/EvilGeniusGames/TheWilds):
 
 ### 1. **Creature Expansion**
-- [ ] Increased spawn rates  
+- [ ] Increased spawn rates
 - [ ] Larger and more diverse enemy types  
 - [ ] Replacement or augmentation of existing Satisfactory creatures with enhanced models and AI  
 - [ ] Improved creature intelligence: dynamic pathing, coordinated attacks, threat prioritization, Fixed pathing for events  
